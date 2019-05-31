@@ -8,7 +8,7 @@
 
 import UIKit
 
-var list = ["Sleep", "Eat food", "Drink water", "Learn how to make apps", "watch JCB ki khudai"]
+var list = ["Sleep", "Eat food", "Drink water", "Learn how to make apps"]
 
 class FirstViewController: UIViewController,UITableViewDataSource,UITableViewDelegate {
     
